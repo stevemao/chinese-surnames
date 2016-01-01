@@ -1,7 +1,7 @@
 # chinese-surnames [![Build Status](https://travis-ci.org/stevemao/chinese-surnames.svg?branch=master)](https://travis-ci.org/stevemao/chinese-surnames)
 
 > A list of Chinese surnames
-
+中国姓氏列表
 
 It's just a [JSON file](index.json), so use it in whatever environment you like.
 

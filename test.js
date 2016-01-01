@@ -1,6 +1,6 @@
 import test from 'ava';
 import chineseSurnames from './';
 
-test('title', t => {
+test('Chinese surnames', t => {
 	t.ok(chineseSurnames.length > 0);
 });
