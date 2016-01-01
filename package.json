@@ -1,0 +1,32 @@
+{
+  "name": "chinese-surnames",
+  "version": "0.0.0",
+  "description": "A list of Chinese surnames",
+  "license": "MIT",
+  "repository": "stevemao/chinese-surnames",
+  "author": {
+    "name": "Steve Mao",
+    "email": "maochenyan@gmail.com",
+    "url": "github.com/stevemao"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.json"
+  ],
+  "keywords": [
+    "Chinese",
+    "json",
+    "data",
+    "surnames"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
